@@ -1,2 +1,2 @@
 # Vue-3-BoilerPlate
-Vue 3 BoilerPlate which includes VueRouter,Tailwind,Vue 3,Pinnia Store
+Vue 3 BoilerPlate which includes VueRouter,Vuetify,Vue 3,Pinnia Store
